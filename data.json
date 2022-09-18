@@ -100,7 +100,7 @@
     "email_slogan": ""
   },
   "resume": {
-    "hidden": true,
+    "hidden": false,
     "git_link": "https://facebook.com",
     "download_link": "https://facebook.com"
   },
